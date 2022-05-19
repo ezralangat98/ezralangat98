@@ -11,5 +11,5 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ezralangat88&count_private=true&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EZRALANGAT88&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ezralangat98&count_private=true&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EZRALANGAT98&show_icons=true&theme=radical)
